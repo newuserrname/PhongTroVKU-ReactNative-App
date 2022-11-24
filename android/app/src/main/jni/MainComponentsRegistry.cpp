@@ -19,7 +19,7 @@ MainComponentsRegistry::sharedProviderRegistry() {
   rncli_registerProviders(providerRegistry);
 
   // Custom Fabric Components go here. You can register custom
-  // components coming from your App or from 3rd party libraries here.
+  // components coming from your RestApi or from 3rd party libraries here.
   //
   // providerRegistry->add(concreteComponentDescriptorProvider<
   //        AocViewerComponentDescriptor>());
